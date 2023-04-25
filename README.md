@@ -1,4 +1,4 @@
-# Testing Sample
+## Testing Sample
 
 ### References
 - [Organize your project to support both .NET Framework and .NET](https://docs.microsoft.com/en-us/dotnet/core/porting/project-structure)
